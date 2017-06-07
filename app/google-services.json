@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "289931147323",
+    "firebase_url": "https://charrika-d6eae.firebaseio.com",
+    "project_id": "charrika-d6eae",
+    "storage_bucket": "charrika-d6eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289931147323:android:d651b1efe812909a",
+        "android_client_info": {
+          "package_name": "com.charrika.www.charrika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289931147323-81leu08qfs1tdluuncb72r6opdt7uaa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.charrika.www.charrika",
+            "certificate_hash": "2747595f48639db76ff1fc4905612bb777b71b16"
+          }
+        },
+        {
+          "client_id": "289931147323-36vk8sq1qfd98obejcmdsar72gnj9pbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWhCqA6x9TVobJJCE7Vc-Uazg_MlRFtDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289931147323-36vk8sq1qfd98obejcmdsar72gnj9pbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
